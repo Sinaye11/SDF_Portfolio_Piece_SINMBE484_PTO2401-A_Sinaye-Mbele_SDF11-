@@ -17,3 +17,6 @@ npm run build-minify
 
 # Link to Loom recording
 Link: https://www.loom.com/share/b6945df2f2d8405e849d18637c58d010?sid=d9371b11-0952-4569-a11d-6f51feb7e270
+
+# Link to presentation slides
+https://1drv.ms/p/c/09977432106550b9/EdJPPHODMYdNqyNn69IWdhEBQI1_c64QkASERK8M-7tYgA
